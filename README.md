@@ -1,8 +1,9 @@
 # Kaggle-Colab
 - Estudos de Data Science a partir de Datasets públicos
-### Comparecimento as Consultas no Sus
-### Classificação da Pressão Sanguinea
-### Segmentação de Clientes
+# Trabalhos:
+### - Comparecimento as Consultas no Sus
+### - Classificação da Pressão Sanguinea
+### - Segmentação de Clientes
 
 ![Aplicando Data Science](https://drive.google.com/uc?id=1qWyy0DqnBysMnmlM_hUCnv7GwW-6zO_O)
 
