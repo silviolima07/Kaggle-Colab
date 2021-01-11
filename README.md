@@ -5,4 +5,4 @@
 ## Segmentação de Clientes
 <img src="https://drive.google.com/uc?id=1KkJS_A5xUE17-oUQ6UfQ29d22ZJFRB4c" width="600" height="250">
 ## Classificação da Pressão Sanguinea
-<img src="https://drive.google.com/file/d/1QVLGxmCnfyFbQvbbEpwH0MG9QRlzF_PA" width="600" height="250">
+<img src="https://drive.google.com/uc?id=1A2XlJcv6Erj6H4xR0yMhVjynEAIbwTDT" width="600" height="250">
