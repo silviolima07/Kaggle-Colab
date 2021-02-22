@@ -1,6 +1,7 @@
 # Kaggle-Colab
 - Estudos de Data Science a partir de Datasets públicos
 # Trabalhos:
+
 ### - Comparecimento as Consultas no Sus
 ### - Classificação da Pressão Sanguinea
 ### - Segmentação de Clientes
